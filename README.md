@@ -16,7 +16,8 @@ The second analysis focused on the subcategory of theater campaigns that were pl
 >=COUNTIFS('Kickstarter Data'!$R:$R,"plays",'Kickstarter Data'!$F:$F,"successful",'Kickstarter Data'!$D:$D,">=1000",'Kickstarter Data'!$D:$D,"<5000")
 
 Once the relevant total counts for each range and outcome were identified, arithmetic formulas were used to determine the percentage of campaigns within each range that were successful, failed or cancelled. This resulted in the following image.
-![pivot table image](C:\Users\jessi\OneDrive\Documents\My Big Data\2022\Classes and Projects\Module 1 Assignment\Resources\Outcomes_vs_Launch_pivot.png)
+
+![pivot table image](https://github.com/jessica1258/kickstarter_challenge/blob/main/Outcomes_vs_Launch_pivot.png)
 
 
 
