@@ -24,7 +24,8 @@ The analysis conducted is a simplified approach focused on two potential factors
 
 ## Results
 Based on the analysis of Outcomes based on Launch Date, we see that the highest number of successful theater kickstarter campaigns are launched in the months of May and June. This is in part because these months have highest number of total launches and in part because more of the launches that occur are successful. In addition, we see that May and July large number of failed campaigns in months with a very high number of campaign launches while October and December have a high rate of failure, with the number of failed campaigns nearly matching that of successful campaigns in those months. A graphical representation of is shown below.
-![Launch Month and Outcomes Graph](https://github.com/jessica1258/kickstarter_challenge/blob/main/Outcomes_vs_Goals.png)
+
+![Launch Month and Outcomes Graph](https://github.com/jessica1258/kickstarter_challenge/blob/main/Theater_Outcomes_vs_Launch.png)
 
 The analysis of Outcomes based on Goals, we see that play campaigns with relatively small goals (Less Than 1000 and 1000 to 4999) have a higher rate (greater than 60%) as do the ranges 35000 to 39999 and 40000 to 44999. This implies that goals in those ranges have a greater ability to be successful relative to the other ranges. A graphical representation of is shown below.
 
