@@ -24,11 +24,11 @@ The analysis conducted is a simplified approach focused on two potential factors
 
 ## Results
 Based on the analysis of Outcomes based on Launch Date, we see that the highest number of successful theater kickstarter campaigns are launched in the months of May and June. This is in part because these months have highest number of total launches and in part because more of the launches that occur are successful. In addition, we see that May and July large number of failed campaigns in months with a very high number of campaign launches while October and December have a high rate of failure, with the number of failed campaigns nearly matching that of successful campaigns in those months. A graphical representation of is shown below.
-![Launch Month and Outcomes Graph](https://github.com/jessica1258/kickstarter_challenge/blob/main/Outcomes_vs_Launch_pivot.png)
+![Launch Month and Outcomes Graph](https://github.com/jessica1258/kickstarter_challenge/blob/main/Outcomes_vs_Goals.png)
 
 The analysis of Outcomes based on Goals, we see that play campaigns with relatively small goals (Less Than 1000 and 1000 to 4999) have a higher rate (greater than 60%) as do the ranges 35000 to 39999 and 40000 to 44999. This implies that goals in those ranges have a greater ability to be successful relative to the other ranges. A graphical representation of is shown below.
 
-![Goal and Outcomes Graph](https://github.com/jessica1258/kickstarter_challenge/blob/main/Outcomes_vs_Launch_pivot.png)
+![Goal and Outcomes Graph](https://github.com/jessica1258/kickstarter_challenge/blob/main/Outcomes_vs_Goals.png)
 
 There are several limitations in this dataset, some of which have been addressed as challenges in earlier sections of these materials. In addition to those items, the data set has larger representation from 2014 through 2016 compared to the other years in the data set (2009-2013 and 2017). It is not clear whether that is representative of an overall higher number of kickstarted campaigns or of the adoption of kickstarter as a fundraising tool or if that means this sample may not be representative for use in informing successful campaign design for plays.
 Overall we used a small amount of data for analysis. To improve our understanding of the data, we could have looked at other factors that may have contributed to campaign success, such as the duration of a campaign or the timing of when it closed and applied similar data techniques and graphs to understand if there were trends that may inform campaign design in the future.
