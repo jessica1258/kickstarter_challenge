@@ -18,7 +18,7 @@ The second analysis focused on the subcategory of theater campaigns that were pl
 
 Once the relevant total counts for each range and outcome were identified, arithmetic formulas were used to determine the percentage of campaigns within each range that were successful, failed or cancelled. An image of the table can be reached using the following link.
 
-![Goals and Outcomes Pivot Table]([https://github.com/jessica1258/kickstarter_challenge/blob/main/Outcomes_vs_Launch_pivot.png](https://github.com/jessica1258/kickstarter_challenge/blob/main/Outcomes_vs_Goals_Table.png)
+![Goals and Outcomes Pivot Table](https://github.com/jessica1258/kickstarter_challenge/blob/main/Outcomes_vs_Goals_Table.png)
 
 ### Challenges and Difficulties Encountered
 
